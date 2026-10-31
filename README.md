@@ -2,8 +2,8 @@
 
 ## About Me
 
-I'm currently working on building my first web and mobile app<br>
-I'm working hard every day to grow into a full-stack developer
+I'm a student developer building my first web and mobile app.<br>
+Learning something new every day on the path to becoming a full-stack developer.
 
 ## Tech Stack
 
